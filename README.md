@@ -91,7 +91,7 @@ The Joker also has no tasks.
 
 Not working? You might want to install the dependency [vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe).
 
-For an easier understanding on how to use the mod, watch this video: https://youtu.be/gtuqYsdir_k
+For an easier understanding on how to install this mod, watch this video: https://youtu.be/gtuqYsdir_k
 
 # Game Options
 
